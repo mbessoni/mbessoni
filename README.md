@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-<h2> Oi gente, eu sou o <strong>Michelle Bessoni</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Oi gente, eu sou a <strong>Michelle Bessoni</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
@@ -23,7 +20,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelle-bessoni-56bb52143/" /></a>
   
   <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=link http://api.whatsapp.com/send?1=pt_BR&phone=5581996387323"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=http://api.whatsapp.com/send?1=pt_BR&phone=5581996387323"/></a>
   
   <a href="#" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100001849252105"/></a>

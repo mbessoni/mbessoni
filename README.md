@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 <h2> Oi gente, eu sou o <strong>Michelle Bessoni</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
@@ -38,4 +38,3 @@
 <a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mbessoni"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mbessoni&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
 </a>
 </div>
--->

@@ -15,18 +15,14 @@
 
 
 <div align="center">
-
-  <a href="https://www.linkedin.com/in/michelle-bessoni-56bb52143"alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelle-bessoni-56bb52143/" /></a>
-  
-  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5581996387323"alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=http://api.whatsapp.com/send?1=pt_BR&phone=5581996387323"/></a>
-  
-  <a href="https://www.facebook.com/profile.php?id=100001849252105"alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100001849252105"/></a>
-
-  <a href="https://www.instagram.com/michellebessoni"alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/michellebessoni/"/></a>
+<p align='center'>  
+  <a href="https://www.linkedin.com/in/michelle-bessoni-56bb52143">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/michellebessoni">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp; 
+</p>
 <div>
  
 

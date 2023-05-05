@@ -11,7 +11,7 @@
 - 💻 &nbsp; <strong>Java|Java Script|C#|Python</strong>
 - 🌐 &nbsp; <strong>(Desktop, Web, Banco de Dados)</strong>
 - 🛢 &nbsp; <strong>SQL</strong>
-- 🔧 &nbsp; <strong>VSCODE, ECLIPSE</strong>
+- 🔧 &nbsp; <strong>VSCODE, ECLIPSE, GIT, GITHUB</strong>
 
 
 <div align="center">

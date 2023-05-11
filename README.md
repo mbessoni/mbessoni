@@ -8,7 +8,7 @@
 
 <h3>:atom: Competências Técnicas: </h3>
 
-- 💻 &nbsp; <strong>Em aprendizado: Java|Java Script|C#|Python</strong>
+- 💻 &nbsp; <strong>Me aperfeiçoando em: Java|Java Script|C#|Python</strong>
 - 🌐 &nbsp; <strong>(Desktop, Web, Banco de Dados)</strong>
 - 🛢 &nbsp; <strong>SQL</strong>
 - 🔧 &nbsp; <strong>VSCODE, ECLIPSE, GIT, GITHUB</strong>

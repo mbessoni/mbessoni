@@ -22,6 +22,8 @@
   <a href="https://www.instagram.com/michellebessoni">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp; 
+  <a href="http://lattes.cnpq.br/4583355880051595" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-2E5469?style=for-the-badge&logo=htmlacademy&logoColor=white"></a>
 </p>
 <div>
 

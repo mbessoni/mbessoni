@@ -3,12 +3,12 @@
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
 - :books: &nbsp; <strong>Tecnologia e Música</strong>
-- 🎓 &nbsp; <strong>ETE Porto Digital</strong>
+- 🎓 &nbsp; <strong>ETE Porto Digital | FAP SOFTEX</strong>
 - :computer: &nbsp; <strong>Desenvolvimento Web Back-End</strong>
 
 <h3>:atom: Competências Técnicas: </h3>
 
-- 💻 &nbsp; <strong>Me aperfeiçoando em: Java|Java Script|Python</strong>
+- 💻 &nbsp; <strong>Me aperfeiçoando em: Java|Java Script|PHP|Python</strong>
 - 🌐 &nbsp; <strong>(Desktop, Web, Banco de Dados)</strong>
 - 🛢 &nbsp; <strong>SQL</strong>
 - 🔧 &nbsp; <strong>VSCODE, ECLIPSE, GIT, GITHUB</strong>

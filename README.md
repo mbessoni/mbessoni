@@ -1,16 +1,17 @@
-<h2> Bem-vindo ao meu perfil. Eu sou <strong>Michelle Bessoni</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<h3> :man_office_worker: 💻 Quem sou eu: </h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=abdbe3&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+Michelle's+Github,+A.K.A.+Bessoni)](https://git.io/typing-svg)
 
-- :books: &nbsp; <strong>Tecnologia e Música</strong>
+<h3> :man_office_worker: 💻 Who I am: </h3>
+
+- :books: &nbsp; <strong>Technology and Health</strong>
 - 🎓 &nbsp; <strong>ETE Porto Digital | FAP SOFTEX</strong>
-- :computer: &nbsp; <strong>Desenvolvimento Web Back-End</strong>
+- :computer: &nbsp; <strong>Full Stack Developer</strong>
 
-<h3>:atom: Competências Técnicas: </h3>
+<h3>:atom: Technical Skills: </h3>
 
-- 💻 &nbsp; <strong>Me aperfeiçoando em: HTML|CSS|Java Script|JAVA|PHP|</strong>
-- 🌐 &nbsp; <strong>(Desktop, Web, Banco de Dados)</strong>
-- 🛢 &nbsp; <strong>SQL</strong>
+- 💻 &nbsp; <strong>HTML|CSS|JS|JAVA|PHP|Bootstrap|NodeJs|React</strong>
+- 🌐 &nbsp; <strong>(Desktop, Web, Database)</strong>
+- 🛢 &nbsp; <strong>MySQL, MongoDB</strong>
 - 🔧 &nbsp; <strong>VSCODE, ECLIPSE, GIT, GITHUB</strong>
 
 
@@ -27,16 +28,25 @@
 </p>
 <div>
 
+## Language:
+
  <div align="center">
     <img align="center" height="30" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="40" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" height="30" width="40" alt="Spring" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg">
     <img align="center" height="30" width="40" alt="MySql" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg">
-    <img align="center" height="30" width="40" alt="Postgresql" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg">
 </div>
 
+## Frame's:
+
+ <div align="center">
+    <img align="center" alt="Dii-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Dii-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Dii-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="Postgresql" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Dii-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
+</div>
 
 </br>
 <div align="center">

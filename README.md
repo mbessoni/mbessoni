@@ -9,7 +9,7 @@
 
 <h3>:atom: Technical Skills: </h3>
 
-- 💻 &nbsp; <strong>HTML|CSS|JS|TS|JAVA|Bootstrap|NodeJs|Express|React Native</strong>
+- 💻 &nbsp; <strong>HTML|CSS|JS|TS|PHP|Bootstrap|NodeJs|Express|React Native</strong>
 - 🌐 &nbsp; <strong>(Desktop, Web, Database)</strong>
 - 🛢 &nbsp; <strong>MySQL, MongoDB</strong>
 - 🔧 &nbsp; <strong>VSCODE, ECLIPSE, GIT, GITHUB</strong>
